@@ -8,5 +8,5 @@ google-api-python-client==2.155.0
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.1
 pydantic==2.10.3
-python-multipart==0.0.18
+python-multipart==0.0.18  
 httpx==0.27.2
